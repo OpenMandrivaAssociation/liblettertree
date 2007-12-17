@@ -11,7 +11,6 @@ Summary:	A letter tree data structure
 License:	LGPL
 Group:		System/Libraries
 Source:		ftp://ftp.inria.fr/INRIA/Atoll/Guillaume.Rousse/%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This is a simple implementation of a lettertree, an efficient data structure
