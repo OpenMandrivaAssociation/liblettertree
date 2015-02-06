@@ -3,7 +3,7 @@
 
 Name:		liblettertree
 Version:	0.1
-Release:	7
+Release:	8
 Summary:	A letter tree data structure
 License:	LGPL
 Group:		System/Libraries
